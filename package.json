@@ -1,0 +1,32 @@
+{
+    "name": "@dieover/wc",
+    "version": "1.0.0",
+    "description": "Package of WebComponents",
+    "main": "./lib/index.js",
+    "private": false,
+    "scripts": {
+        "link": "npm link",
+        "publish": "npm publish --access public"
+    },
+    "keywords": [
+        "wc",
+        "webcomponents",
+        "dieover",
+        "dieover webcomponent",
+        "dieover wc"
+    ],
+    "author": "Lennon Milicic Costa <dieoverofficial@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/DieOver/wc",
+    "bugs": {
+        "url": "https://github.com/DieOver/wc/issues",
+        "email": "dieoverofficial@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DieOver/wc.git"
+    },
+    "engines": {},
+    "engineStrict": true,
+    "devDependencies": {}
+}

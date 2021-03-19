@@ -1,1 +1,1 @@
-# wc
+# DieOver WebComponent
