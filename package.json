@@ -1,6 +1,6 @@
 {
     "name": "@dieover/wc",
-    "version": "1.0.1",
+    "version": "1.0.1001",
     "description": "Package of WebComponents",
     "main": "./lib/index.js",
     "private": false,
